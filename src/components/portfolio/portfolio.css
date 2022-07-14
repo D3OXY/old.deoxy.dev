@@ -18,8 +18,7 @@
 }
 
 .portfolio__item-image {
-    max-height: 100px;
-    min-height: 100px;
+    max-height: 156px;
     /* border-radius: 1.5rem; */
     overflow: hidden;
 }
