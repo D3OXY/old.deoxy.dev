@@ -13,8 +13,15 @@ function Contact() {
         emailjs.sendForm('service_og3kfsc', 'template_y7q1d1s', form.current, `tNhT4dHG0__IOK4e_`)
             .then((result) => {
                 console.log(result.text);
+                if(result.text === 'OK'){
+                    alert('Message Send!')
+                    form.current.reset();
+                }else{
+                    alert('Something went wrong! Failed to send message.')
+                }
             }, (error) => {
-                console.log(error.text);
+                // console.log(error.text);
+                alert('Something went wrong! Failed to send message.')
             });
     };
 
