@@ -1,17 +1,15 @@
 import React from 'react'
 import './testimonials.css'
-// import Swiper core and required modules
 import { Pagination } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
-// Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/pagination';
 
 import noimagemale from '../../assets/noimagemale.jpeg'
+// import noimagefemale from '../../assets/noimagefemale.jpg'
 import geoffdesigns from '../../assets/geoffdesigns.webp'
 import farah03 from '../../assets/farah03.webp'
-// import noimagefemale from '../../assets/noimagefemale.jpg'
 const data = [
     {
         avatar: farah03,
