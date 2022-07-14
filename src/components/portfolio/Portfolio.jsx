@@ -13,7 +13,7 @@ const data = [
   },
   {
     id: 2,
-    image: IMG2,
+    image: "https://i.postimg.cc/nz97yDBV/screely-1657783601718.png",
     title: "Browser Based Tetris Game.",
     github: "https://github.com/D3OXY/tetris",
     gitEnabled: true,
@@ -22,7 +22,7 @@ const data = [
   },
   {
     id: 3,
-    image: IMG3,
+    image: "https://i.postimg.cc/nz97yDBV/screely-1657783601718.png",
     title: "Temp Placeholder",
     github: "https://github.com",
     gitEnabled: false,
@@ -31,7 +31,7 @@ const data = [
   },
   {
     id: 4,
-    image: IMG4,
+    image: "https://i.postimg.cc/nz97yDBV/screely-1657783601718.png",
     title: "Temp Placeholder",
     github: "https://github.com",
     gitEnabled: false,
@@ -40,7 +40,7 @@ const data = [
   },
   {
     id: 5,
-    image: IMG5,
+    image: "https://i.postimg.cc/nz97yDBV/screely-1657783601718.png",
     title: "Temp Placeholder",
     github: "https://github.com",
     gitEnabled: false,
