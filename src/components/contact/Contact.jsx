@@ -47,8 +47,8 @@ function Contact() {
                     <article className="contact__option">
                         <RiWhatsappLine className='contact__option-icon' />
                         <h4>WhatsApp</h4>
-                        <h5 id="blur">+91 9567935139</h5>
-                        <a href="https://api.whatsapp.com/send?phone=919567935139" target='_blank' rel="noreferrer">Send a Message</a>
+                        <h5 id="blur">+91 1111111111</h5>
+                        <a href="https://api.whatsapp.com/send?phone=1111111111" target='_blank' rel="noreferrer">Send a Message</a>
                     </article>
                 </div>
                 <form ref={form} onSubmit={sendEmail}>
