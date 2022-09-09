@@ -39,7 +39,7 @@ function Portfolio() {
         {data.map(
           ({ id, image, title, github, gitEnabled, demo, demoEnabled }) => {
             return (
-              <article className="portfolio__item">
+              <article key={id} className="portfolio__item">
                 <div className="portfolio__item-image">
                   <img src={image} alt="" />
                 </div>
