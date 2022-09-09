@@ -4,16 +4,16 @@ import "./portfolio.css";
 const data = [
   {
     id: 1,
-    image: "https://i.postimg.cc/nz97yDBV/screely-1657783601718.png",
-    title: "My new Personal Website.",
-    github: "https://github.com/D3OXY/react-personal-website",
+    image: "https://i.postimg.cc/mZdtcJBN/screely-1662706667960.png",
+    title: "Browser Based Tetris Game.",
+    github: "https://github.com/D3OXY/tetris",
     gitEnabled: true,
-    demo: "https://new.deoxy.tech",
+    demo: "https://d3oxy.github.io/tetris/",
     demoEnabled: true,
   },
   {
     id: 2,
-    image: "https://i.postimg.cc/nz97yDBV/screely-1657783601718.png",
+    image: "https://i.postimg.cc/mZdtcJBN/screely-1662706667960.png",
     title: "Browser Based Tetris Game.",
     github: "https://github.com/D3OXY/tetris",
     gitEnabled: true,
