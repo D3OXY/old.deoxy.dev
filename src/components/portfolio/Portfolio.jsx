@@ -14,7 +14,7 @@ const data = [
   {
     id: 2,
     image: "https://i.postimg.cc/mZdtcJBN/screely-1662706667960.png",
-    title: "Browser Based Tetris Game.",
+    title: "NextJS Authentication",
     github: "https://github.com/D3OXY/tetris",
     gitEnabled: true,
     demo: "https://d3oxy.github.io/tetris/",
@@ -23,30 +23,12 @@ const data = [
   {
     id: 3,
     image: "https://i.postimg.cc/nz97yDBV/screely-1657783601718.png",
-    title: "Temp Placeholder",
+    title: "NEO | Multipurpose Discord Bot",
     github: "https://github.com",
     gitEnabled: false,
     demo: "https://deoxy.tech",
     demoEnabled: false,
-  },
-  {
-    id: 4,
-    image: "https://i.postimg.cc/nz97yDBV/screely-1657783601718.png",
-    title: "Temp Placeholder",
-    github: "https://github.com",
-    gitEnabled: false,
-    demo: "https://deoxy.tech",
-    demoEnabled: false,
-  },
-  {
-    id: 5,
-    image: "https://i.postimg.cc/nz97yDBV/screely-1657783601718.png",
-    title: "Temp Placeholder",
-    github: "https://github.com",
-    gitEnabled: false,
-    demo: "https://deoxy.tech",
-    demoEnabled: false,
-  },
+  }
 ];
 function Portfolio() {
   return (
