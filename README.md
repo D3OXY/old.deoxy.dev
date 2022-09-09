@@ -1,4 +1,4 @@
-# A Personal Portfolio Website Made With ReactJS
+# A Progressive Personal Portfolio Website Made With ReactJS
 
 [Live Demo](https://new.deoxy.tech)
 
