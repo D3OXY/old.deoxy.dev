@@ -20,15 +20,15 @@ const data = [
     demo: "https://memory-game-deoxy.web.app/",
     demoEnabled: true,
   },
-  {
-    id: 3,
-    image: "https://i.postimg.cc/nz97yDBV/screely-1657783601718.png",
-    title: "NEO | Multipurpose Discord Bot",
-    github: "https://github.com",
-    gitEnabled: false,
-    demo: "https://deoxy.dev",
-    demoEnabled: false,
-  }
+  // {
+  //   id: 3,
+  //   image: "https://i.postimg.cc/nz97yDBV/screely-1657783601718.png",
+  //   title: "NEO | Multipurpose Discord Bot",
+  //   github: "https://github.com",
+  //   gitEnabled: false,
+  //   demo: "https://deoxy.dev",
+  //   demoEnabled: false,
+  // }
 ];
 function Portfolio() {
   return (

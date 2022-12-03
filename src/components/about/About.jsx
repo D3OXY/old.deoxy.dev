@@ -36,24 +36,19 @@ function About() {
           </div>
 
           <p>
-            A Tech Enthusiast, who plays stupid videogames and codes useless
-            programs, Loves to explore new things and face challenges.
-            <br />
-            I am a Full Stack Developer, UI/UX Designer, Discord Bot Developer.
-            <br />
-            I have a good experience with game server management panel like
-            Pterodactyl, Pufferpanel, MyMcAdmin, MineOS. LinuxGSM.
-            <br />
-            Also i do Game Server development for games like Minecraft, CS:GO,
-            GTA.
-            <br />
-            And i am Capable of Configuring/Managing Game Panels, Billing
-            Softwares and E-Commerce platforms such as WHMCS, Shopify, HostBill,
-            Etc...
+          A Tech Enthusiast, who plays stupid Video Games and codes useless programs.
+          <br />
+          As a tech enthusiast and full stack developer
+          with experience in UI/UX design and Discord bot development,
+          I am skilled in game server management and configuration.
+          I have experience with popular panels such as Pterodactyl, PufferPanel,
+          and MyMcAdmin, as well as LinuxGSM and game server development for
+          popular games like Minecraft, CS:GO, and GTA. Additionally,
+          I am proficient in configuring and managing billing software and e-commerce
+          platforms such as Stripe, WHMCS, Shopify, and HostBill.
           </p>
           <p>
-            Interested in working with me? Let's have a quick chat, and see how
-            we can make your project come to life. :)
+          If you are interested in working with me, let's have a quick chat and discuss how we can bring your project to life. :)
           </p>
           <a href="#contact" className="btn btn-primary">
             Lets Get Started!
