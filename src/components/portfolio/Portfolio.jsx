@@ -13,11 +13,11 @@ const data = [
   },
   {
     id: 2,
-    image: "https://i.postimg.cc/mZdtcJBN/screely-1662706667960.png",
-    title: "NextJS Authentication",
-    github: "https://github.com/D3OXY/tetris",
+    image: "https://i.postimg.cc/wMxRb2h7/screely-1670056036089.png",
+    title: "Memory Game.",
+    github: "https://github.com/D3OXY/memory-game",
     gitEnabled: true,
-    demo: "https://d3oxy.github.io/tetris/",
+    demo: "https://memory-game-deoxy.web.app/",
     demoEnabled: true,
   },
   {
@@ -26,7 +26,7 @@ const data = [
     title: "NEO | Multipurpose Discord Bot",
     github: "https://github.com",
     gitEnabled: false,
-    demo: "https://deoxy.tech",
+    demo: "https://deoxy.dev",
     demoEnabled: false,
   }
 ];
