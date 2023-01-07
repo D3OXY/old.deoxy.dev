@@ -24,12 +24,12 @@ const Footer = React.lazy(() => import('./components/footer/Footer'));
 function App() {
 
   useEffect(() => {
-      getAnalytics();
+    getAnalytics();
   }, [])
 
-    return (
-      <>
-        <Suspense fallback={<Loading/>}>
+  return (
+    <>
+      <Suspense fallback={<Loading />}>
         <Header />
         <Nav />
         <About />
@@ -39,9 +39,10 @@ function App() {
         <Testimonials />
         <Contact />
         <Footer />
-        </Suspense>
-      </>
-    );
+      </Suspense>
+    </>
+
+  );
 }
 
 export default App;
